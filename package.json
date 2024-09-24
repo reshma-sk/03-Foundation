@@ -1,0 +1,27 @@
+{
+  "name": "03-foundation",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reshma-sk/03-Foundation.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "npm"
+  ],
+  "author": "Reshma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reshma-sk/03-Foundation/issues"
+  },
+  "homepage": "https://github.com/reshma-sk/03-Foundation#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
